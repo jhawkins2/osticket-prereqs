@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p> ![Os Ticket install 1 (2)](https://user-images.githubusercontent.com/78667163/218283326-ad0110dd-c1fa-477b-8080-232b2fd9d948.png)
+<p>
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
