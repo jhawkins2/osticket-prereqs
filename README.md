@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/Ebunvpo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Before installing the prerequisites for osTicket, you want to enable Internet Information Services (IIS) with Computer Generated Imagery (CGI). Internet Information Services is a web server that allows the computer to host, deploy, and manage web applications. Because osTicket runs from a website, we need to configure Internet Information Services in on to run osTicket as a web application.
 </p>
 <br />
 
