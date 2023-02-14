@@ -50,8 +50,11 @@ Next, you want to install PHP Manager, Rewrite module, mySQL 5.5.62, PHP 7.3.8, 
 <img src="https://i.imgur.com/oXvAtfa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, you want to reload Internet Information Services by stopping the server and restarting the server. Now, you want to install osTicket v1.15.8. Once this is completed, you want to browse to the osTicket tab and select "Browse *.80". If this was completed successfully, the page above should appear.
 </p>
 <br />
 
 <img src="https://i.imgur.com/QSVfCT9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Finally, you will install HeidiSQL and create a new session. After creating a new session, you will need to create a database called (osTicket). Once this database is created, you will need to connect to the session. Aftter you have successfully connected to the session, you should be able to login with the root credentials: Username: root     Password: Password1
